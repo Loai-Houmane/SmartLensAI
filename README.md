@@ -54,7 +54,7 @@ To get started with the AI Flutter Application, ensure you have Flutter 2.2.3 in
 The application includes the following pre-trained TensorFlow Lite models:
 
 - **Digit Recognition**: `converted_mnist_model.tflite`
-- **Object Detection**: `a.tflite` (Placeholder name, replace with the actual model name)
+- **Object Detection**: `yolov2_tiny.tflite`, `ssd_mobilenet.tflite` and `mobilenet_v1_1.0_224.tflite` (Placeholder name, replace with the actual model name)
 
 These models are located in the `assets` directory and are automatically loaded by the application at runtime.
 
