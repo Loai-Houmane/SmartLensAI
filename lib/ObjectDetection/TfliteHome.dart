@@ -42,13 +42,13 @@ class _TfliteHomeState extends State<TfliteHome> {
       String res;
       if (_model == yolo) {
         res = await Tflite.loadModel(
-          model: "assets/tflite/yolov2_tiny.tflite",
-          labels: "assets/tflite/yolov2_tiny.txt",
+          model: "assets/yolov2_tiny.tflite",
+          labels: "assets/yolov2_tiny.txt",
         );
       } else {
         res = await Tflite.loadModel(
-          model: "assets/tflite/ssd_mobilenet.tflite",
-          labels: "assets/tflite/ssd_mobilenet.txt",
+          model: "assets/ssd_mobilenet.tflite",
+          labels: "assets/ssd_mobilenet.txt",
         );
       }
       print(res);
