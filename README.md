@@ -13,23 +13,21 @@ Welcome to my AI Flutter Application, a cutting-edge mobile app designed to show
 <table>
   <tr>
 	<td align="center"><img src="screenshots/s1.png" alt="Screenshot 1" width="200"/></td>
-	<td align="center"><img src="screenshots/s2.jpg" alt="Screenshot 1" width="200"/></td>
-	<td align="center"><img src="screenshots/s3.jpg" alt="Screenshot 1" width="200"/></td>
+	<td align="center"><img src="screenshots/s2.jpg" alt="Screenshot 2" width="200"/></td>
+	<td align="center"><img src="screenshots/s3.jpg" alt="Screenshot 3" width="200"/></td>
 	
+  </tr>
+  <tr>
+  <td align="center"><img src="screenshots/s4.jpg" alt="Screenshot 4" width="200"/></td>
+  <td align="center"><img src="screenshots/s5.jpg" alt="Screenshot 5" width="200"/></td>
+  <td align="center"><img src="screenshots/s6.png" alt="Screenshot 6" width="200"/></td>
 	
 	
   </tr>
   <tr>
-  <td align="center"><img src="screenshots/s4.jpg" alt="Screenshot 1" width="200"/></td>
-  <td align="center"><img src="screenshots/s5.jpg" alt="Screenshot 1" width="200"/></td>
-  <td align="center"><img src="screenshots/s6.png" alt="Screenshot 1" width="200"/></td>
-	
-	
-  </tr>
-  <tr>
-  <td align="center"><img src="screenshots/s7.jpg" alt="Screenshot 1" width="200"/></td>
-  <td align="center"><img src="screenshots/s8.png" alt="Screenshot 1" width="200"/></td>
-  <td align="center"><img src="screenshots/s9.jpg" alt="Screenshot 1" width="200"/></td>
+  <td align="center"><img src="screenshots/s7.jpg" alt="Screenshot 7" width="200"/></td>
+  <td align="center"><img src="screenshots/s8.png" alt="Screenshot 8" width="200"/></td>
+  <td align="center"><img src="screenshots/s9.jpg" alt="Screenshot 9" width="200"/></td>
   </tr>
 </table>
 
